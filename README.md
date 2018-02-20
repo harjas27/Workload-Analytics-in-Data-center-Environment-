@@ -6,3 +6,4 @@ Can be downloaded from http://gwa.ewi.tudelft.nl/datasets/gwa-t-12-bitbrains.
 
 # Explanation of Scripts
 1. script1.py : finds the Pearson Correlation Coefficient(PCC) for each pair of workload parameters.
+2. script2.py : takes the timestamps as attributes and makes clusters for all the virtual machines for each of the original workload parameters.
